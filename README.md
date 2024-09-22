@@ -1,2 +1,2 @@
-# CTFs I have Participated in.
+# CTFs I Have Participated In.
 - PatriotCTF 2024
