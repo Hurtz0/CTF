@@ -7,7 +7,7 @@ Competition:
 
 Practice:
 - NCL gym
-- picoCTF
+- picoCTF gym
 - tCTF
 - pwn.college
 - CryptoHack
