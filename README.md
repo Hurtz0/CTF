@@ -1,13 +1,13 @@
 # CTFs I Have Participated In.
 
 Competition:
-- NCL Fall 2025 Individual (183/8565, Top 2%) + Team Games
+- National Cyber League (NCL) Fall 2025 Individual (181/8571, Top 2%) + Team (16/457, Top 4%) Games
 - JerseyCTF 2025, Team-based (59/407, Top 15%)
 - PatriotCTF 2024, Team-based (90/1361, Top 7%)
 
 Practice:
-- NCL gym
-- picoCTF gym
+- National Cyber League (NCL) Gym
+- PicoCTF Gym
 - tCTF
 - pwn.college
 - CryptoHack
@@ -16,3 +16,4 @@ Practice:
 - HackTheBox
 - CTFLearn
 - LetsDefend
+- Burpsuite Web Security Academy
