@@ -2,8 +2,8 @@
 
 Competition:
 - National Cyber League (NCL)
-  + Fall 2025 Individual - 181/8575 Top 2%
-  + Fall 2025 Team       - 16/457,  Top 4%
+  + Spring 2025 Individual - 181/8575 Top 2%
+  + Spring 2025 Team       - 16/457,  Top 4%
 - JerseyCTF 2025, Team-based (59/407, Top 15%)
 - PatriotCTF 2024, Team-based (90/1361, Top 7%)
 
