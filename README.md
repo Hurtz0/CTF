@@ -1,7 +1,7 @@
 # CTFs I Have Participated In.
 
 Competition:
-- WICYS Security Training Scholarship CTF, Individual (2/935, Top 0.01%)
+- WICYS Security Training Scholarship CTF, Individual (3/935, Top 0.01%)
 - CyberBay CTF Qualifiers 2025, Team-based, (9/402, Top 2%)
 - DoD Cyber Sentinel, Individual (61/2155, Top 3%)
 - National Cyber League (NCL)
