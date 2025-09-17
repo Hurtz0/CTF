@@ -11,7 +11,7 @@ Competition:
 - PatriotCTF 2024, Team-based (90/1361, Top 7%)
 
 Practice:
-- National Cyber League (NCL) Gym
+- NCL Gym
 - PicoCTF Gym
 - tCTF
 - pwn.college
