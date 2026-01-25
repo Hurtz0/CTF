@@ -2,6 +2,7 @@
 
 Competition:
 
+- WICYS Security Training Scholarship CTF, Individual (3/935, Top 0.01%)
 - CyberBay CTF Qualifiers 2025, Team-based, (9/402, Top 2%)
 - DoD Cyber Sentinel, Individual (61/2155, Top 3%)
 - JerseyCTF 2025, Team-based (59/407, Top 15%)
@@ -11,7 +12,6 @@ Competition:
   + Spring 2025 Individual   (181/8575, Top 2%)
   + Spring 2025 Team-based   (16/457, Top 4%)
 - PatriotCTF 2024, Team-based (90/1361, Top 7%)
-- WICYS Security Training Scholarship CTF, Individual (3/935, Top 0.01%)
 
 Practice:
 - NCL Gym
