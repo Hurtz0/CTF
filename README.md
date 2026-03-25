@@ -1,4 +1,4 @@
-al# CTFs I Have Participated In.
+All CTFs I Have Participated In.
 
 Competition:
 
