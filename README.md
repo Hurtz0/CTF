@@ -2,6 +2,8 @@ All CTFs I Have Participated In.
 
 Competition:
 
+- C2C CTF 2026, Team-based (2/14, 2nd Overall)
+- S&G Tech CTF (Internal Capital One), Team-based, (1/52, Overall Winners)
 - CTF@CIT 2026, Team-based, (7/1111, Top 0.01%)
 - Virginia Cyber Cup/VMI Commonwealth Cyberfusion (Invite-Only, In-Person), Team-based (1/19, Overall Winners)
 - WICYS Security Training Scholarship CTF, Individual (3/935, Top 0.01%)
